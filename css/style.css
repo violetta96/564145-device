@@ -2406,6 +2406,7 @@ img {
   border-radius: 50%;
 
   opacity: 0.2;
+  z-index: 3;
 }
 
 .products-pagination {
